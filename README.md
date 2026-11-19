@@ -1,0 +1,1 @@
+# ssg-email-assets
